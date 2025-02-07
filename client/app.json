@@ -21,7 +21,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "cerify.andriod"
+      "package": "cerify.andriod",
+      "newArchEnabled": true
     },
     "web": {
       "bundler": "metro",

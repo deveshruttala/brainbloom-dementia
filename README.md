@@ -2,6 +2,10 @@
 
 **Gamify Cognitive Activities to Support Brain Health in Patients with Dementia**
 
+Pronunciation: _sehr·rih·fai_
+
+![Static Badge](https://img.shields.io/badge/_Best_use_of_MongoDB_Atlas-darkgreen?label=HackRU%20F2024%20WINNER&labelColor=gold&link=https://devpost.com/software/cerify)
+
 ## Overview
 
 Cerify is a mobile app designed to help dementia patients engage in simple, stimulating cognitive activities that support brain health. Inspired by platforms like Duolingo, Cerify offers a fun, game-like experience that exercises various cognitive functions while allowing caregivers to monitor user progress. With an easy-to-use interface, Cerify aims to provide meaningful engagement and cognitive support for individuals experiencing memory loss or focus issues.
@@ -9,10 +13,13 @@ Cerify is a mobile app designed to help dementia patients engage in simple, stim
 ### HackRU 2024 Project
 
 **Contributors**
-- Devesh
-
+- Christian Apostol
+- Shawn Aviles
+- Justin Ferber
+- Harris Pyo
 
 **Artifacts**
+- [DevPost](https://devpost.com/software/cerify)
 - [Figma](https://www.figma.com/design/T56JuXsvBhtv34fjYtxCEQ/HackRU-FA24?node-id=14-39&t=jnAKeEB8PoFPzQp3-1)
 - [Pitch Deck](https://docs.google.com/presentation/d/1At7aAnCG_i7pHIjARA9nuR0Yx92IS8EFq5l7zhLY-Sw/edit?usp=sharing)
 

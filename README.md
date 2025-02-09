@@ -6,7 +6,7 @@
 
 Cerify is a mobile app designed to help dementia patients engage in simple, stimulating cognitive activities that support brain health. Inspired by platforms like Duolingo, Cerify offers a fun, game-like experience that exercises various cognitive functions while allowing caregivers to monitor user progress. With an easy-to-use interface, Cerify aims to provide meaningful engagement and cognitive support for individuals experiencing memory loss or focus issues.
 
-### HackRU 2024 Project
+### Codefest 2025 Project
 
 **Contributors**
 - Devesh

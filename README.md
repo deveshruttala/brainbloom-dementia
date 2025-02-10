@@ -1,10 +1,10 @@
-# Cerify
+# BrainBloom
 
 **Gamify Cognitive Activities to Support Brain Health in Patients with Dementia**
 
 ## Overview
 
-Cerify is a mobile app designed to help dementia patients engage in simple, stimulating cognitive activities that support brain health. Inspired by platforms like Duolingo, Cerify offers a fun, game-like experience that exercises various cognitive functions while allowing caregivers to monitor user progress. With an easy-to-use interface, Cerify aims to provide meaningful engagement and cognitive support for individuals experiencing memory loss or focus issues.
+BrainBloom is a mobile app designed to help dementia patients engage in simple, stimulating cognitive activities that support brain health. Inspired by platforms like Duolingo, BrainBloom offers a fun, game-like experience that exercises various cognitive functions while allowing caregivers to monitor user progress. With an easy-to-use interface, BrainBloom aims to provide meaningful engagement and cognitive support for individuals experiencing memory loss or focus issues.
 
 ### Codefest 2025 Project
 
@@ -30,13 +30,13 @@ https://github.com/user-attachments/assets/7784716a-2ebe-44a6-b6c3-c7c2b69d8b27
 
 ## Key Features
 
-- **Cognitive Activities** - Cerify provides tailored exercises that encourage users to stay mentally active and improve specific skills. Each activity is designed with simplicity and ease of use in mind:
+- **Cognitive Activities** - BrainBloom provides tailored exercises that encourage users to stay mentally active and improve specific skills. Each activity is designed with simplicity and ease of use in mind:
   - Memory Match: A card-matching game to enhance short-term and visual memory.
   - Attention Games: A “whack-a-mole” style game that improves concentration and reaction time.
 
 - **Progress Tracking & Analytics** - The analytics page tracks user progress, providing insights on performance over time, making it a helpful tool for caregivers and family members.
 
-- **Daily Reminders** - Cerify sends reminders to encourage daily engagement, fostering a consistent routine that benefits cognitive health.
+- **Daily Reminders** - BrainBloom sends reminders to encourage daily engagement, fostering a consistent routine that benefits cognitive health.
 
 ## Built With
 

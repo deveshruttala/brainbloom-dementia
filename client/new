@@ -1,0 +1,21 @@
+
+const int soilMoisturePin = A0;  
+const int pumpPin = 7;           
+
+int moistureThreshold = 500; // Adjust depending on your sensor calibration
+
+void setup() {
+
+  Serial.begin(9600);
+  
+ 
+  pinMode(soilMoisturePin, INPUT);  /
+  pinMode(pumpPin, OUTPUT);        
+
+  // Initial pump state (off)
+  digitalWrite(pumpPin, LOW);
+}
+
+void loop() {
+  // Read soil moisture value
+  int moistureValue =
